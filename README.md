@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/paulaasplamenco/Currency/_apis/build/status/plamencop.pipelines-java?branchName=master)](https://dev.azure.com/paulaasplamenco/Currency/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
